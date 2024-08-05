@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/src/java/DBContext/AccountDAO.java</file>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/src/java/controllerr/AccountController.java</file>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/src/java/controllerr/LoginController.java</file>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/src/java/DBContext/AdminDAO.java</file>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/src/java/DBContext/DAOProduct.java</file>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/src/java/admin/UpdateAccount.java</file>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/web/view/HomePage/header.jsp</file>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/web/view/ForgotPass.jsp</file>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/web/view/MyOrder.jsp</file>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/src/java/controllerr/ForgotPass.java</file>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/web/view/Productcate.jsp</file>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/web/view/orderingguide.jsp</file>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/web/admin/EditUserAccount.jsp</file>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/web/view/Login.jsp</file>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/web/view/AccessInvalid.jsp</file>
+            <file>file:/D:/Git/AE-Sport/AE-Sport/SWP/src/java/Model/UserAccount.java</file>
+        </group>
+    </open-files>
+</project-private>
